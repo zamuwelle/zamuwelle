@@ -1,7 +1,7 @@
 ```bash
 kazikz@kazikz:~$ whoami
 								name: kazikz
-| | ____ _ _____(_) | __ ____	role: aspiring full-stack developer
+| | ____ _ _____(_) | __ ____	role: aspiring to last.
 | |/ / _` |_  / | | |/ /|_  /	visitors: 15
 |   < (_| |/ /| | |   <  / /
 |_|\_\__,_/___|_|_|_|\_\/___|
