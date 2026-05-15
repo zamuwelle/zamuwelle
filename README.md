@@ -1,34 +1,20 @@
-```bash
-kazikz@kazikz:~$ whoami
-								name: kazikz
-| | ____ _ _____(_) | __ ____	role: aspiring to last.
-| |/ / _` |_  / | | |/ /|_  /	visitors: 15
-|   < (_| |/ /| | |   <  / /
-|_|\_\__,_/___|_|_|_|\_\/___|
-```
+![](public/banner.jpg)
 
-```bash
-kazikz@kazikz:~$ cat philosophy.txt
-'efficiency through avoidance'
-```
+### Hi, I'm Kaziks this must be the work of an enemy Stand!
+![](https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&abbreviated=true&style=for-the-badge)
+- 📝 I'm a student currently learning and looking for things to create.
+- 💻 Programming as a hobby
+- 👩‍🍳 A wanna be chef someday
+- 🎮 Noob
+- 🤓 Otaku
+- ⌨️ Prefers tabs over spaces
+- ⭐ Tiling managers are awesome
+- 💖 Opensource
 
-```bash
-kazikz@kazikz:~$ cat techstack.json
-{
-	'frontend': [
-		'tailwindcss'
-	],
-	'backend': [
-		'python',
-		'java',
-		'php'
-	],
-	'frameworks': [
-		'laravel'
-	],
-	'databases': [
-		'mysql',
-		'sqlite'
-	]
-}
-```
+![](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,markdown,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)
+
+<div align='center'>
+	<img src='public/banner2.png' width=300>
+</div>
+
+<p align='center'><i>"Efficiency through avoidance."</i></p>
