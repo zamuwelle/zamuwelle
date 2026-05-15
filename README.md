@@ -1,4 +1,4 @@
-![](public/banner.jpg)
+<img src='public/banner.jpg' width='100%'>
 
 ### Hi, I'm Kaziks this must be the work of an enemy Stand!
 ![](https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&abbreviated=true&style=for-the-badge)
