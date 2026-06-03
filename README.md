@@ -1,4 +1,4 @@
-<img src='public/banner.jpg' width='100%'>
+<img src="public/banner.jpg" width="100%">
 
 ### Hi, I'm Kaziks this must be the work of an enemy Stand!
 ![](https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge)
@@ -11,10 +11,10 @@
 - ⭐ Tiling managers are awesome
 - 💖 Opensource
 
-![](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,markdown,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)
+<!--[](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,markdown,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)-->
 
-<div align='center'>
+<div align="center">
 	<img src='public/banner2.png' width=300>
 </div>
 
-<p align='center'><i>"Efficiency through avoidance."</i></p>
+<p align="center"><i>"Efficiency through avoidance."</i></p>
