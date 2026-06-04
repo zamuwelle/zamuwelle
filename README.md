@@ -17,8 +17,7 @@ Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cyberse
 
 <!-- Quote of the day -->
 <div align="center">
-	<h3>Farewell to Rec Room: 2016 - 2026</h3>
-	<small>thoughts...</small>
+	<h4><strong>Farewell to Rec Room: 2016 - 2026</strong> <small>thoughts of this day</small></h4>
 	<br>
 	<!-- View counter -->
 	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
