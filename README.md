@@ -14,20 +14,20 @@
 <!-- Introductory -->
 <h3>Hi, I'm Kaziks this must be the work of an enemy Stand!</h3>
 
-<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
-
 <!-- Stand of the day -->
 <div align="center">
 	<h3>Farewell to Rec Room: 2016 - 2026</h3>
+	<!-- View counter -->
+	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
 	<h4>Stand of the Day.</h4>
 </div>
 
 <!-- Main content -->
 <pre>
-- 📝 I'm a student currently learning and looking for things to create.
+- 📝 A Student
 - 💻 Programming as a hobby
 - 👩‍🍳 A wanna be chef someday
-- 🎮 Noob
+- 🎮 Noob (Retired)
 - 🤓 Otaku
 - ⌨️ Prefers tabs over spaces
 - ⭐ Tiling managers are awesome
