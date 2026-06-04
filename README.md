@@ -10,7 +10,7 @@
 -->
 
 <!-- Introductory -->
-<h1><strong>Hi There 👋</strong></h1>
+<h3><strong>Hi There 👋</strong></h3>
 
 <!-- Main content -->
 Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cybersecurity and Competetive Programming, Right now, I'm spending my time solving problems as I enjoy how computers work ever since I was a kid.
