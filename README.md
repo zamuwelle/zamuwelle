@@ -23,7 +23,6 @@
 </div>
 
 <!-- Main content -->
-<pre>
 - 📝 A Student
 - 💻 Programming as a hobby
 - 👩‍🍳 A wanna be chef someday
@@ -32,7 +31,6 @@
 - ⌨️ Prefers tabs over spaces
 - ⭐ Tiling managers are awesome
 - 💖 Opensource
-</pre>
 
 <!-- I don't know what to do with this LOL. -->
 <!--[](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,markdown,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)-->
