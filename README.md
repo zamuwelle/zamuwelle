@@ -16,9 +16,13 @@
 <div align="center">
 	<h3>Farewell to Rec Room: 2016 - 2026</h3>
 	<small>thoughts...</small>
+	<br>
 	<!-- View counter -->
 	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
+	<span></span>
 </div>
+
+<br>
 
 <!-- Main content -->
 Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cybersecurity and Competetive Programming, Right now, I'm spending my time solving problems as I enjoy how computers work ever since I was a kid.
