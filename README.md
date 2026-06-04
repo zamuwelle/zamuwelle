@@ -9,6 +9,12 @@
 		 editor: neovim
 -->
 
+<!-- Introductory -->
+<h3><strong>Hi There 👋</strong></h3>
+
+<!-- Main content -->
+Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cybersecurity and Competetive Programming, Right now, I'm spending my time solving problems as I enjoy how computers work ever since I was a kid.
+
 <!-- Quote of the day -->
 <div align="center">
 	<h3>Farewell to Rec Room: 2016 - 2026</h3>
@@ -20,13 +26,6 @@
 </div>
 
 <br>
-
-<!-- Introductory -->
-<h3><strong>Hi There 👋</strong></h3>
-
-<!-- Main content -->
-Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cybersecurity and Competetive Programming, Right now, I'm spending my time solving problems as I enjoy how computers work ever since I was a kid.
-
 
 <!-- Quote -->
 <p align="center"><i>"Efficiency through avoidance."</i></p>
