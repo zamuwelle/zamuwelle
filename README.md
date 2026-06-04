@@ -1,44 +1,28 @@
 <!--
-	 _  __         _ _          - - - - - I'm above here folks.
-	| |/ /__ _ ___(_) | _____ 
-	| ' // _` |_  / | |/ / __|
-	| . \ (_| |/ /| |   <\__ \
-	|_|\_\__,_/___|_|_|\_\___/  - - - - - Kaziks{Y!u_F0UnD_M3}
-
-	version : 1.0
+		                                        _ _       - - - - - I'm above here folks.      
+		  ______ _ _ __ ___  _   ___      _____| | | ___ 
+		 |_  / _` | '_ ` _ \| | | \ \ /\ / / _ \ | |/ _ \
+		  / / (_| | | | | | | |_| |\ V  V /  __/ | |  __/
+		 /___\__,_|_| |_| |_|\__,_| \_/\_/ \___|_|_|\___| - - - - - zamuwelle{Y!u_F0UnD_M3}
+		 
+		 version: 1.0
+		 editor: neovim
 -->
 
-<!-- Banner -->
-<img src="public/banner.jpg" width="100%">
-
 <!-- Introductory -->
-<h3>Hi, I'm Kaziks this must be the work of an enemy Stand!</h3>
+<h3><strong>Hi There 👋</strong></h3>
 
-<!-- Stand of the day -->
+<!-- Quote of the day -->
 <div align="center">
 	<h3>Farewell to Rec Room: 2016 - 2026</h3>
+	<small>thoughts...</small>
 	<!-- View counter -->
 	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
-	<h4>Stand of the Day.</h4>
 </div>
 
 <!-- Main content -->
-- 📝 A Student
-- 💻 Programming as a hobby
-- 👩‍🍳 A wanna be chef someday
-- 🎮 Noob (Retired)
-- 🤓 Otaku
-- ⌨️ Prefers tabs over spaces
-- ⭐ Tiling managers are awesome
-- 💖 Opensource
+Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cybersecurity and Competetive Programming, Right now, I'm spending my time solving problems as I enjoy how computers work ever since I was a kid.
 
-<!-- I don't know what to do with this LOL. -->
-<!--[](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,markdown,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)-->
-
-<!-- Another banner -->
-<div align="center">
-	<img src='public/banner2.png' width=300>
-</div>
 
 <!-- Quote -->
 <p align="center"><i>"Efficiency through avoidance."</i></p>
