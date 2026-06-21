@@ -14,6 +14,15 @@
 <!-- Main content -->
 My name is Sam. I'm a third-year college student in the Philippines, with a passion for cybersecurity and competitive programming. I've been curious about how computers work since I was a kid, and that curiosity hasn't really faded. My goal is to get good enough to compete seriously in CTFs and algorithmic contests, and maybe end up doing security research down the line. Feel free to check out my portfolio at [Work in progress] to see what I've been working on.
 
+<!-- Quote of the day -->
+<div align="center">
+	<h4>The Dutch Masterclass: Netherlands 5, Sweden 1 (June 2026)</h4>
+	<br>
+	<!-- View counter -->
+	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
+	<span></span>
+</div>
+
 - 🔪 Arch user btw, former vim btw
 - 🔢 Can count chinese numbers
 - 💻 Programming as a hobby
@@ -23,15 +32,6 @@ My name is Sam. I'm a third-year college student in the Philippines, with a pass
 - ⌨️ Prefers indented tabs over space 
 - ⭐ Tiling managers are awesome
 - 💖 Opensource
-
-<!-- Quote of the day -->
-<div align="center">
-	<h4>The Dutch Masterclass: Netherlands 5, Sweden 1 (June 2026)</h4>
-	<br>
-	<!-- View counter -->
-	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
-	<span></span>
-</div>
 
 <br>
 
