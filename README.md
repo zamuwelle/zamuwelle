@@ -12,7 +12,7 @@
 ### Hi There 👋
 
 <!-- Main content -->
-My name is Sam. I'm a third-year college student in the Philippines, with a passion for cybersecurity and competitive programming. I've been curious about how computers work since I was a kid, and that curiosity hasn't really faded. My goal is to get good enough to compete seriously in CTFs and algorithmic contests, and maybe end up doing security research down the line.
+My name is Sam. I'm a third-year college student in the Philippines, with a passion for cybersecurity and competitive programming. I've been curious about how computers work since I was a kid, and that curiosity hasn't really faded. My goal is to get good enough to compete seriously in CTFs and algorithmic contests, and maybe end up doing security research down the line. Feel free to check out my portfolio at [Work in progress] to see what I've been working on.
 
 - 🔪 Arch user btw, former vim btw
 - 🔢 Can count chinese numbers
