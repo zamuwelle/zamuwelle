@@ -8,16 +8,25 @@
 		 version: 1.0
 		 editor: neovim
 -->
-<h1>TODO: REWORK THIS README</h1>
 <!-- Introductory -->
-<h3><strong>Hi There 👋</strong></h3>
+### Hi There 👋
 
 <!-- Main content -->
-Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cybersecurity and Competetive Programming, Right now, I'm spending my time solving problems as I enjoy how computers work ever since I was a kid.
+My name is Sam. I'm a third-year college student in the Philippines, with a passion for cybersecurity and competitive programming. I've been curious about how computers work since I was a kid, and that curiosity hasn't really faded. My goal is to get good enough to compete seriously in CTFs and algorithmic contests, and maybe end up doing security research down the line.
+
+- 🔪 Arch user btw
+- 🔢 Can count chinese numbers
+- 💻 Programming as a hobby
+- 👩‍🍳 A wanna be chef someday
+- 🎮 Noob (Retired)
+- 🤓 Otaku
+- ⌨️ Prefers tabs over spaces
+- ⭐ Tiling managers are awesome
+- 💖 Opensource
 
 <!-- Quote of the day -->
 <div align="center">
-	<h4><strong>Farewell to Rec Room: 2016 - 2026</strong></h4>
+	<h4>The Dutch Masterclass: Netherlands 5, Sweden 1 (June 2026)</h4>
 	<br>
 	<!-- View counter -->
 	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
@@ -26,5 +35,11 @@ Ayo... call me **Sam**, a College student at Philippines. Obsessesd with Cyberse
 
 <br>
 
+<!-- I don't know what to do with this LOL. -->
+[![Skill Icons](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,md,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)](https://skillicons.dev)
+
 <!-- Quote -->
-<p align="center"><i>"Efficiency through avoidance."</i></p>
+<div align=center>
+	<img src="ado-singer.png" width="200">
+	<p><i>"Efficiency through avoidance."</i></p>
+</div>
