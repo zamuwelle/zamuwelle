@@ -14,13 +14,13 @@
 <!-- Main content -->
 My name is Sam. I'm a third-year college student in the Philippines, with a passion for cybersecurity and competitive programming. I've been curious about how computers work since I was a kid, and that curiosity hasn't really faded. My goal is to get good enough to compete seriously in CTFs and algorithmic contests, and maybe end up doing security research down the line.
 
-- 🔪 Arch user btw
+- 🔪 Arch user btw, former vim btw
 - 🔢 Can count chinese numbers
 - 💻 Programming as a hobby
 - 👩‍🍳 A wanna be chef someday
 - 🎮 Noob (Retired)
 - 🤓 Otaku
-- ⌨️ Prefers tabs over spaces
+- ⌨️ Prefers indented tabs over space 
 - ⭐ Tiling managers are awesome
 - 💖 Opensource
 
