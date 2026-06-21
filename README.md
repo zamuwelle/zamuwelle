@@ -17,7 +17,6 @@ My name is Sam. I'm a third-year college student in the Philippines, with a pass
 <!-- Quote of the day -->
 <div align="center">
 	<h4>The Dutch Masterclass: Netherlands 5, Sweden 1 (June 2026)</h4>
-	<br>
 	<!-- View counter -->
 	<img src="https://komarev.com/ghpvc/?username=xoptech&color=blue&label=Views&style=for-the-badge">
 	<span></span>
@@ -32,8 +31,6 @@ My name is Sam. I'm a third-year college student in the Philippines, with a pass
 - ⌨️ Prefers indented tabs over space 
 - ⭐ Tiling managers are awesome
 - 💖 Opensource
-
-<br>
 
 <!-- I don't know what to do with this LOL. -->
 [![Skill Icons](https://skillicons.dev/icons?i=arch,linux,bash,windows,powershell,c,java,kotlin,py,php,js,ts,html,css,md,laravel,react,tailwind,qt,mysql,sqlite,git,github,neovim,vscode,androidstudio,npm,vite,vercel,postman,robloxstudio)](https://skillicons.dev)
