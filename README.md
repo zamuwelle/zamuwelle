@@ -9,7 +9,7 @@
 		 editor: neovim
 -->
 <!-- Introductory -->
-### Hi There 👋
+### Hi There	<img src="pepe.png" width="30"></img>
 
 <!-- Main content -->
 Hi, I'm Sam. Just like messing around with stuff.
